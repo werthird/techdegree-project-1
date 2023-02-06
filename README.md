@@ -1,2 +1,2 @@
-#Techdegree Project 1
-ready to go and start
+# techdegree-project-1
+profile page
